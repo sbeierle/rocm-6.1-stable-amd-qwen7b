@@ -1,0 +1,8 @@
+rocm_env/
+rocm_env_freeze/
+rocm_env_stable/
+rocm_env_nightly_backup.tar.gz
+*.tar.gz
+*.zip
+*.bak
+*.log
